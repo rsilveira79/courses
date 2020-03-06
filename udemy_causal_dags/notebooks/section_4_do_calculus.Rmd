@@ -1,0 +1,22 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
+
+```{r}
+plot(cars)
+```
+```{r}
+library("tidyverse")
+library("dagitty")
+library("ggdag")
+library("causaleffect")
+library("igraph")
+library("latex2exp")
+```
+```{r}
+coords <-data.frame(matrix)
+```
+
