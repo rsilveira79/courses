@@ -1,0 +1,8 @@
+cuml==0.13.0
+cupy==7.5.0
+cusignal==0+unknown
+cuspatial==0.13.0
+cuxfilter==0.13.0
+dgl-cu100==0.5.2
+ipython==7.13.0
+numba==0.48.0
